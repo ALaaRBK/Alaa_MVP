@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/ALaaRBK/Alaa_MVP/issues"
   },
-  "homepage": "https://github.com/ALaaRBK/Alaa_MVP#readme"
+  "homepage": "https://github.com/ALaaRBK/Alaa_MVP#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "express-redirect": "^1.2.2",
+    "loadash": "^1.0.0",
+    "mongoose": "^4.11.13",
+    "morgan": "^1.8.2",
+    "request": "^2.82.0"
+  }
 }
